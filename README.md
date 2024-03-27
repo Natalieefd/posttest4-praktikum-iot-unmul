@@ -16,7 +16,7 @@
 
 
 
-# Rangkaian controling LED dan Monitoring LED Menggunakan Telegram Bot
+# Rangkaian controling LED dan Monitoring LED, Suhu Dan Kelembaban Menggunakan Telegram Bot
 <br>
 
 ## DESKRIPSI
