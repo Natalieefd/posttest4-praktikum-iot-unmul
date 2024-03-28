@@ -33,11 +33,11 @@ Rangkaian ini memiliki 4 LED dan 1 DHT11. Semua anggota dapat memonitoring kelem
 
 
 ## KOMPONEN YANG DIGUNAKAN
-- LED : untuk indikator suhu
+- LED : untuk menampilkan cahaya
 - Bread Board : sebagai tempat rangkaian komponen
-- ESP8266 : untuk menghubugkan komponen ke internet melalui WIFI
+- ESP8266 : untuk menghubungkan komponen ke internet melalui WIFI
 - Kabel Jumper : untuk menyambungkan komponen elektronik satu sama lain
-- Resistor : untuk menghabat arus listrik
+- Resistor : untuk menghambat arus listrik
 - DHT11 : untuk mendeteksi suhu dan kelembaban
 
 
