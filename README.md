@@ -20,13 +20,14 @@
 <br>
 
 ## DESKRIPSI
+Rangkaian ini memiliki 4 LED dan 1 DHT11. Semua anggota dapat memonitoring kelembaban dan suhu, 3 lampu dapat di kontrol sesuai id anggota dan 1 lampu dapat di kontrol semua anggota
 
 
 ## PEMBAGIAN TUGAS
 
-040_Natalie Fuad       = 
+040_Natalie Fuad       = Mengatur konfigurasi LED dan DHT
 <br>
-047_Muhammad Irsyadul A F  = Mengatur konfigurasi grup telegram bot, 
+047_Muhammad Irsyadul A F  = Mengatur konfigurasi grup telegram bot, konfigurasi serial monitor
 <br>
 050_Sherina Laraswati  = Mmembuat rangkaian LED dan DHT, Membuat rangkaian design schematic
 
@@ -37,7 +38,6 @@
 - ESP8266 : untuk menghubugkan komponen ke internet melalui WIFI
 - Kabel Jumper : untuk menyambungkan komponen elektronik satu sama lain
 - Resistor : untuk menghabat arus listrik
-- Buzzer : untuk peringatan suhu berupa suara
 - DHT11 : untuk mendeteksi suhu dan kelembaban
 
 
