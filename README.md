@@ -55,7 +55,7 @@
 - OUR SCHEMATIC
 <div align="center">
 
-<img src="">
+<img src="https://github.com/Natalieefd/posttest4-praktikum-iot-unmul/blob/main/Rangkaian%20Schematic/rangkaian.jpg">
 
 </div>
 
