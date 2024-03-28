@@ -27,9 +27,9 @@ Rangkaian ini memiliki 4 LED dan 1 DHT11. Semua anggota dapat memonitoring kelem
 
 040_Natalie Fuad       = Mengatur konfigurasi LED dan DHT
 <br>
-047_Muhammad Irsyadul A F  = Mengatur konfigurasi grup telegram bot, konfigurasi serial monitor
+047_Muhammad Irsyadul A F  = Mengatur konfigurasi grup telegram bot, mengatur konfigurasi serial monitor
 <br>
-050_Sherina Laraswati  = Mmembuat rangkaian LED dan DHT, Membuat rangkaian design schematic
+050_Sherina Laraswati  = Membuat rangkaian LED dan DHT, membuat rangkaian design schematic
 
 
 ## KOMPONEN YANG DIGUNAKAN
