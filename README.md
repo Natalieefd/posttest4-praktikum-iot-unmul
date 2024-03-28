@@ -9,7 +9,7 @@
 | NIM | NAMA |
 |------------|:----------------------:|
 | 2109106040 | Natalie Fuad |
-| 2109106045 | Muhammad Irsyadul Asyrof Haryono |
+| 2109106047 | Muhammad Irsyadul Asyrof Haryono |
 | 2109106050 | Sherina Laraswati |
 <br>
 </div>
